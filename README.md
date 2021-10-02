@@ -32,7 +32,7 @@ PetFindr is a fullstack pet tracking application that allows users to keep track
   
 
   ## Team
-  * Check out the team:  
+  
   * Kierra Nelson 
   * Sevim Guloglu
   * Kyle Ahn
