@@ -21,6 +21,8 @@ async function newFormHandler(event) {
 
   if (response.ok) {
     console.log(response);
+    location.reload();
+
   } else {
     alert(response.statusText);
   }
